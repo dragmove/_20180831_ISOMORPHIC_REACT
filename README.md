@@ -2,7 +2,7 @@
 
 
 ## About
-* test
+* test - https://github.com/PacktPublishing/Isomorphic-JavaScript-Web-Development
 
 
 ## Contact
