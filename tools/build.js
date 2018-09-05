@@ -28,7 +28,9 @@ function bundle({ watch }) {
   // bundle by webpack
   return new Promise((resolve, reject) => {
     let bundlerRunCount = 0;
+
     const bundler = webpack(webpackConfig);
+
     const cb = (err, stats) => {
       if (err) {
         reject(err);

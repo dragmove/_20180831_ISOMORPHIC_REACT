@@ -8,7 +8,7 @@ function format(time) {
 }
 
 function run(fn, options) {
-  const task = typeof fn.default === 'undefined' ? fn : fn.default;
+  const task = typeof fn.default === 'undefined' ? fn : fn.default; // build function
   const start = new Date();
 
   console.log(
