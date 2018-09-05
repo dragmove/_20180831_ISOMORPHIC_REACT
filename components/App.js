@@ -1,7 +1,6 @@
 /*
  * Learning Isomorphic Web Application Development
- * Copyright © 2015 Konstantin Tarkus, Packt Publishing
- * All rights reserved.
+ * Copyright © 2016 Konstantin Tarkus, Packt Publishing
  */
 
 import React, { Component } from 'react';
